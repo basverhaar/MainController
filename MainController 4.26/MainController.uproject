@@ -8,6 +8,10 @@
 			"Name": "MantlingSystem",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b4f52bfbc42745aa9329f5d2824fb3c2"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
